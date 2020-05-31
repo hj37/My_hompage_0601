@@ -278,7 +278,7 @@ $(document).ready(function() {
 							<div class="12u">
 								<label for="psw"><b>Password</b>  <span id="pass_sp1"> *비밀번호는 4~12자의 영문 대소문자와 숫자만 가능합니다 <br/></span>
 							    <span id="pass_sp2"> *비밀번호에는 하나이상의 문자와 숫자가 포함되어야 합니다.</span> </label>
-							    <input type="password" placeholder="Enter Password" name="pass" id="pass"required>
+							    <input type="password" placeholder="Enter Password" name="passwd" id="pass"required>
 							</div>
 						</div>
 						<div class="row half">

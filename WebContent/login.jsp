@@ -68,7 +68,7 @@
 								<ul class="actions">
 									<li>
 										<input type="submit" value="Login" class="button alt" />
-										<a href="join.jsp" class="button alt">Sign up</a>										
+										<a href="join2.jsp" class="button alt">Sign up</a>										
 									</li>
 								</ul>
 							</div>
